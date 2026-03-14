@@ -1,0 +1,36 @@
+
+AI HEALTH REPORT
+Date: 2026-03-14 08:14:40.574868
+
+User Symptoms:
+i have a fever due to mosquito bite
+
+Analysis:
+**Summary:** You're experiencing a fever due to a mosquito bite, which could be a sign of a mosquito-borne illness such as Dengue fever, Zika virus, Chikungunya, or Malaria.
+
+**Possible Causes:** Based on your symptoms, possible explanations or conditions include:
+- Dengue fever
+- Zika virus
+- Chikungunya
+- Malaria
+- West Nile virus (although less likely, it's also a mosquito-borne illness that can cause fever and other symptoms)
+
+**Recommended Actions:** To manage your symptoms and prevent complications:
+- Apply a cold compress or take a cool bath to reduce fever
+- Stay hydrated by drinking plenty of fluids
+- Use pain relievers such as acetaminophen to reduce fever and alleviate headache
+- Avoid scratching the bite area to prevent infection
+- Rest and avoid strenuous activities
+
+**When To Seek Medical Help:** If you experience any of the following, seek medical attention immediately:
+- Severe headache
+- Severe joint pain
+- Difficulty breathing
+- Bleeding from the nose or gums
+- Fever lasting more than 3 days
+- Recent travel to an area with high risk of mosquito-borne diseases
+- Unusual symptoms that concern you
+
+Remember, it's essential to consult a doctor for proper evaluation and treatment, especially if you're unsure about the cause of your symptoms or if they worsen over time. They can provide personalized guidance and help you manage your condition effectively.
+
+Risk Score: 30

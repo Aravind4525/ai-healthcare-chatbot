@@ -1,0 +1,19 @@
+
+AI HEALTH REPORT
+Date: 2026-03-14 08:14:00.883124
+
+User Symptoms:
+How many serotypes of dengue virus exist?
+
+Analysis:
+**Summary:** You are seeking information about the number of serotypes of the dengue virus. 
+
+**Possible Causes:** This inquiry is related to understanding dengue fever, a viral infection transmitted by mosquitoes.
+
+**Recommended Actions:** For general health and prevention, it's essential to take measures against mosquito bites, such as using insect repellents, wearing protective clothing, and eliminating standing water around your home to reduce mosquito breeding sites. Stay informed about dengue fever outbreaks in your area.
+
+**When To Seek Medical Help:** If you experience symptoms such as fever, severe headache, pain behind the eyes, joint and muscle pain, rash, or bleeding, seek medical attention immediately.
+
+**Answer to Your Query:** There are four recognized serotypes of the dengue virus: DENV-1, DENV-2, DENV-3, and DENV-4. These serotypes can cause the full spectrum of dengue disease. While there have been reports of a potential fifth serotype, it has not been confirmed. Each of the four confirmed serotypes has several major lineages or genotypes, but the primary classification into four serotypes is widely accepted in the medical and scientific communities.
+
+Risk Score: 0

@@ -1,0 +1,335 @@
+[
+  {
+  "source": "https://www.cdc.gov/flu/signs-symptoms/index.html",
+  "disease": "Influenza (Flu)",
+  "common_symptoms": [
+    "fever or feeling feverish/chills",
+    "cough",
+    "sore throat",
+    "runny or stuffy nose",
+    "muscle or body aches",
+    "headaches",
+    "fatigue (tiredness)",
+    "vomiting (more common in children)",
+    "diarrhea (more common in children)"
+  ],
+  "notes": [
+    "Not everyone with flu will have a fever.",
+    "Flu symptoms usually come on suddenly."
+  ],
+  "emergency_warning_signs": {
+    "children": [
+      "fast breathing or trouble breathing",
+      "bluish lips or face",
+      "ribs pulling in with each breath",
+      "chest pain",
+      "severe muscle pain (child refuses to walk)",
+      "dehydration (no urine for 8 hours, dry mouth, no tears when crying)",
+      "not alert or interacting when awake",
+      "seizures",
+      "fever above 104°F not controlled by medicine",
+      "fever in children younger than 12 weeks",
+      "fever or cough that improves but then returns or worsens",
+      "worsening of chronic medical conditions"
+    ],
+    "adults": [
+      "difficulty breathing or shortness of breath",
+      "persistent pain or pressure in the chest or abdomen",
+      "persistent dizziness or confusion",
+      "seizures",
+      "not urinating",
+      "severe muscle pain",
+      "severe weakness or unsteadiness",
+      "fever or cough that improves but then returns or worsens",
+      "worsening of chronic medical conditions"
+    ]
+  },
+  "cold_vs_flu_comparison": {
+    "symptom_onset": {
+      "cold": "gradual",
+      "flu": "abrupt"
+    },
+    "fever": {
+      "cold": "rare",
+      "flu": "common"
+    },
+    "aches": {
+      "cold": "slight",
+      "flu": "common and often severe"
+    },
+    "chills": {
+      "cold": "uncommon",
+      "flu": "fairly common"
+    },
+    "fatigue": {
+      "cold": "sometimes",
+      "flu": "usual"
+    },
+    "sneezing": {
+      "cold": "common",
+      "flu": "sometimes"
+    },
+    "cough": {
+      "cold": "mild to moderate",
+      "flu": "common and can be severe"
+    },
+    "stuffy_nose": {
+      "cold": "common",
+      "flu": "sometimes"
+    },
+    "sore_throat": {
+      "cold": "common",
+      "flu": "sometimes"
+    },
+    "headache": {
+      "cold": "rare",
+      "flu": "common"
+    }
+  }
+},
+
+  {
+  "source": "https://www.who.int/news-room/fact-sheets/detail/mpox",
+  "disease": "Mpox",
+  "previous_name": "Monkeypox",
+  "pathogen": {
+    "virus_name": "Monkeypox virus (MPXV)",
+    "family": "Poxviridae",
+    "genus": "Orthopoxvirus",
+    "genetic_type": "Enveloped double-stranded DNA virus"
+  },
+  "virus_clades": [
+    {
+      "name": "Clade I",
+      "subclades": ["Ia", "Ib"]
+    },
+    {
+      "name": "Clade II",
+      "subclades": ["IIa", "IIb"]
+    }
+  ],
+  "overview": {
+    "description": "Mpox is an infectious viral disease that causes rash, fever, swollen lymph nodes and other symptoms. Most people recover, but some cases can become severe.",
+    "natural_reservoir": "Unknown; suspected small mammals such as squirrels and monkeys"
+  },
+  "transmission": {
+    "human_to_human": [
+      "skin-to-skin contact",
+      "mouth-to-mouth contact",
+      "mouth-to-skin contact",
+      "respiratory particles during close face-to-face contact",
+      "sexual contact",
+      "contact with contaminated objects (clothing, bedding, needles)"
+    ],
+    "animal_to_human": [
+      "animal bites or scratches",
+      "handling infected animals",
+      "hunting or skinning animals",
+      "contact with animal carcasses",
+      "eating improperly cooked infected animals"
+    ],
+    "mother_to_child": [
+      "during pregnancy via placenta",
+      "during or after birth"
+    ]
+  },
+  "incubation_period": {
+    "range_days": "1-21",
+    "typical_onset": "within 1 week after exposure"
+  },
+  "symptoms": {
+    "common_symptoms": [
+      "skin rash or lesions",
+      "fever",
+      "sore throat",
+      "headache",
+      "muscle aches",
+      "back pain",
+      "low energy",
+      "swollen lymph nodes"
+    ],
+    "rash_characteristics": {
+      "initial_stage": "flat sore",
+      "progression": [
+        "macules",
+        "papules",
+        "vesicles (fluid-filled blisters)",
+        "pustules (pus-filled lesions)",
+        "scabs or crusts"
+      ],
+      "typical_locations": [
+        "face",
+        "palms of hands",
+        "soles of feet",
+        "genitals",
+        "other contact areas"
+      ],
+      "duration": "2–4 weeks"
+    }
+  },
+  "high_risk_groups": [
+    "children",
+    "pregnant women",
+    "people with weak immune systems",
+    "people with uncontrolled HIV"
+  ],
+  "treatment": {
+    "approach": "Supportive care",
+    "management": [
+      "pain management",
+      "fever treatment",
+      "maintaining hydration and nutrition",
+      "skin care",
+      "preventing secondary infections",
+      "treating co-infections such as HIV"
+    ]
+  },
+  "prevention": {
+    "measures": [
+      "avoid close contact with infected individuals",
+      "avoid contact with contaminated materials",
+      "practice good hand hygiene",
+      "wear protective equipment when caring for infected people",
+      "avoid contact with sick or dead animals",
+      "cook animal products thoroughly"
+    ],
+    "vaccination": {
+      "availability": "Vaccines exist and are recommended for high-risk groups during outbreaks",
+      "note": "Previous smallpox vaccination may provide partial protection"
+    }
+  },
+  "self_care_guidelines": {
+    "recommended": [
+      "stay in a well-ventilated room",
+      "wash hands frequently",
+      "wear a mask around others",
+      "cover lesions",
+      "disinfect shared surfaces",
+      "use saltwater rinses for mouth sores",
+      "take warm baths with baking soda or Epsom salts",
+      "use medications like paracetamol or ibuprofen for pain"
+    ],
+    "avoid": [
+      "scratching or popping blisters",
+      "shaving areas with sores until healed"
+    ]
+  }
+},
+
+  {
+  "source": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+  "disease": "Dengue",
+  "type": "Mosquito-borne viral infection",
+  "virus": {
+    "name": "Dengue virus (DENV)",
+    "serotypes": ["DENV-1", "DENV-2", "DENV-3", "DENV-4"]
+  },
+  "overview": {
+    "description": "Dengue is a viral infection transmitted from mosquitoes to humans, mainly in tropical and subtropical climates.",
+    "global_risk": "About half of the world's population is at risk.",
+    "estimated_annual_infections": "100–400 million",
+    "common_regions": [
+      "Asia",
+      "Africa",
+      "Americas",
+      "Middle East",
+      "Pacific Islands"
+    ]
+  },
+  "vectors": [
+    "Aedes aegypti",
+    "Aedes albopictus"
+  ],
+  "transmission": {
+    "primary": "Bite of infected female Aedes mosquitoes",
+    "human_to_mosquito": "Mosquito becomes infected when biting a person with dengue virus in the blood",
+    "maternal_transmission": "Possible from pregnant mother to baby",
+    "rare_modes": [
+      "blood transfusion",
+      "organ donation"
+    ]
+  },
+  "incubation_period": {
+    "range_days": "4–10 days"
+  },
+  "symptoms": {
+    "common_symptoms": [
+      "high fever (up to 40°C / 104°F)",
+      "severe headache",
+      "pain behind the eyes",
+      "muscle and joint pain",
+      "nausea",
+      "vomiting",
+      "swollen glands",
+      "rash",
+      "fatigue"
+    ],
+    "duration": "Symptoms usually last 2–7 days"
+  },
+  "severe_dengue": {
+    "risk_factor": "Higher risk if infected with dengue more than once",
+    "warning_signs": [
+      "severe abdominal pain",
+      "persistent vomiting",
+      "rapid breathing",
+      "bleeding gums or nose",
+      "blood in vomit or stool",
+      "restlessness",
+      "extreme fatigue",
+      "very thirsty",
+      "pale and cold skin"
+    ],
+    "complications": [
+      "plasma leakage causing shock",
+      "severe bleeding",
+      "organ impairment"
+    ]
+  },
+  "treatment": {
+    "specific_antiviral": "None",
+    "management": [
+      "pain management",
+      "paracetamol for fever",
+      "rest",
+      "drink plenty of fluids",
+      "hospitalization for severe dengue"
+    ],
+    "avoid": [
+      "aspirin",
+      "ibuprofen"
+    ]
+  },
+  "prevention": {
+    "vector_control": [
+      "eliminate standing water",
+      "control mosquito breeding sites",
+      "community awareness programs"
+    ],
+    "personal_protection": [
+      "use mosquito repellents",
+      "wear long-sleeved clothing",
+      "use mosquito nets",
+      "install window screens"
+    ]
+  },
+  "risk_factors": [
+    "previous dengue infection",
+    "rapid urbanization",
+    "population density",
+    "water storage practices",
+    "climate change",
+    "human mobility"
+  ],
+  "vaccines": {
+    "available_vaccine": "QDenga",
+    "recommended_for": "Children aged 6–16 years in high transmission areas",
+    "status": "Other vaccines under evaluation"
+  },
+  "global_statistics": {
+    "cases_2000": 505430,
+    "cases_2024": 14600000,
+    "deaths_2024": 12000,
+    "countries_affected": "More than 100"
+  }
+}
+]
