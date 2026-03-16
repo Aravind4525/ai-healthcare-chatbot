@@ -384,8 +384,8 @@ Provide structured medical guidance.
 
                 st.markdown(ai_response)
 
-                chart_data=pd.DataFrame({"Risk":[risk_score]})
-                st.bar_chart(chart_data)
+                # chart_data=pd.DataFrame({"Risk":[risk_score]})
+                # st.bar_chart(chart_data)
 
                 report=f"""
 AI HEALTH REPORT
